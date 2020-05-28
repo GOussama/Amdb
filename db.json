@@ -1,0 +1,54 @@
+{
+  "movies": [
+    {
+      "original_title": "Inception",
+      "title": "Inception",
+      "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "original_language": "en",
+      "poster_path": "/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "release_date": "2010-07-15",
+      "vote_average": 8.3,
+      "id": 1
+    },
+    {
+      "original_title": "Interstellar",
+      "title": "Interstellar",
+      "overview": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "original_language": "en",
+      "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "release_date": "2014-11-05",
+      "vote_average": 8.3,
+      "id": 3
+    },
+    {
+      "original_title": "Blood Diamond",
+      "title": "Blood Diamond",
+      "overview": "An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war overtaking 1999 Sierra Leone, these men join for two desperate missions: recovering a rare pink diamond of immense value and rescuing the fisherman's son, conscripted as a child soldier into the brutal rebel forces ripping a swath of torture and bloodshed countrywide.",
+      "original_language": "en",
+      "poster_path": "/m6rZ3dmqjcTvVNKtqwQ6hxYQ9nk.jpg",
+      "release_date": "2006-01-26",
+      "vote_average": 7.5,
+      "id": 4
+    },
+    {
+      "original_title": "Extraction",
+      "title": "Extraction",
+      "overview": "Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord…",
+      "original_language": "en",
+      "poster_path": "/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg",
+      "release_date": "2020-04-24",
+      "vote_average": 7.5,
+      "id": 5
+    },
+    {
+      "original_title": "Joker",
+      "title": "Joker",
+      "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "original_language": "en",
+      "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "release_date": "2019-10-02",
+      "vote_average": 8.2,
+      "id": 6
+    }
+  ]
+}

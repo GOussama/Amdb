@@ -1,5 +1,12 @@
 # AmdbApp
 
+Malheureusment le projet n'est pas finsi, je n'étais pas en bonne etat pendant les deux jours donnés pour le réaliser.
+J'ai utilisé un Json-serveur pour la partie back-end*
+
+Pour lancer le serveur 
+
+# AmdbApp
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
 ## Development server

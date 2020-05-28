@@ -1,0 +1,17 @@
+<div class="container">
+<div class="row button-add">
+    <a href="/movies/create" title="Create a new movie" class="btn btn-primary "><fa-icon [icon]="faPlus"></fa-icon></a>
+</div>
+<ng-container *ngIf="movies.length > 0 ; else noDataFound">
+    <div class="row card-group">
+                    <div class="col-4" *ngFor="let movie of movies ; let i = index" >
+                      <app-movie [movie]="movie" (deleteEvent)="deleteMovie($event)">
+                      </app-movie>
+                    </div>
+              </div>
+</ng-container>
+
+<ng-template #noDataFound>
+    <h1>No data found</h1>       
+</ng-template>
+</div>
